@@ -1,0 +1,81 @@
+body {
+	text-align: center;
+	margin:0;
+}
+h1 {
+	font-family:"Raleway",san-serif;
+	font-weight: 400;
+	text-transform: uppercase;
+	color:#FFFFFF;
+	letter-spacing: 1px;
+	font-size: 45px;
+	background-color:#F15b31;
+	padding:20px;
+	margin:0;
+}
+h2 {
+	font-family:"Raleway",san-serif;
+	font-weight: 600;
+	color:#0D2C40;
+	letter-spacing: 1px;
+	font-size: 20px;
+}
+p {
+	font-family: "Droid Serif", serif;
+	line-height: 26px
+	font-size:18px; 
+
+}
+a {
+	text-decoration: none;
+	font-family:"Raleway",san-serif;
+	font-weight: 600;
+	color:#F15B31;
+	letter-spacing: 1px;
+	font-size: 18px;
+}
+footer {
+	text-transform: uppercase;
+	padding: 0 20px;
+	background-color:#0D2C40;
+	color:white;
+	font-size:14px;
+	letter-spacing: .08em;
+	font-weight:500;
+}
+.copyright{
+	float:left;
+}
+.message{
+	float:right;
+}
+.clearfix:after {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
+}
+.name{
+	color:#F15B31;
+	font-weight: 700;
+}
+a{
+	border-bottom: 2px solid transparent;
+	padding:30px;
+	text-align: center;
+}
+a:hover{
+	border-color: white;
+}
+nav{
+	background-color:lightblue;
+	width:100%;
+	height:auto;
+	padding:20px; 
+}
+.words{
+	padding:0 25%;
+	width:50%;
+}
